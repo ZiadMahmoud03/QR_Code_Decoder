@@ -3,7 +3,10 @@
 <img id="top" src="https://i.imgur.com/iW7JeHC.png" width="200" align="right" />
 
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 
 # QR Code Decoder
 
