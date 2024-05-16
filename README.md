@@ -142,13 +142,13 @@ https://www.qrcode.com/en/about/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/vadrif-draco/asufecse483project-simpleperceptionstack.svg?style=for-the-badge
-[contributors-url]: https://github.com/vadrif-draco/asufecse483project-simpleperceptionstack/graphs/contributors
+[contributors-url]: https://github.com/ZiadMahmoud03/QR_Code_Decoder/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/vadrif-draco/asufecse483project-simpleperceptionstack.svg?style=for-the-badge
-[forks-url]: https://github.com/vadrif-draco/asufecse483project-simpleperceptionstack/network/members
+[forks-url]: https://github.com/ZiadMahmoud03/QR_Code_Decoder/forks
 [stars-shield]: https://img.shields.io/github/stars/vadrif-draco/asufecse483project-simpleperceptionstack.svg?style=for-the-badge
-[stars-url]: https://github.com/vadrif-draco/asufecse483project-simpleperceptionstack/stargazers
+[stars-url]: https://github.com/ZiadMahmoud03/QR_Code_Decoder/stargazers
 [issues-shield]: https://img.shields.io/github/issues/vadrif-draco/asufecse483project-simpleperceptionstack.svg?style=for-the-badge
-[issues-url]: https://github.com/vadrif-draco/asufecse483project-simpleperceptionstack/issues
+[issues-url]: https://github.com/ZiadMahmoud03/QR_Code_Decoder/issues
 
 [python-shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org/
