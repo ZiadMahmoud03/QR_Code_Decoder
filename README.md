@@ -68,7 +68,7 @@ Some test cases didn't need straightening into a square but for our very special
 
 ## Phase Two Details and Requirements
 
-During this phase we had one task which was decoding the QR Code we received from the preprocessing pipeline. This phase required a lot of research so that we can fully understand how QR Codes actually work. After intense research our team member Salma Nasreldin developed Salma's algorithm which helped us out a lot during this phase. All research papers we used will be added at the bottom of this readme. 
+During this phase we had one task which was decoding the QR Code we received from the preprocessing pipeline. This phase required a lot of research so that we can fully understand how QR Codes actually work. All research papers we used will be added at the bottom of this readme. 
 
 
 ## Getting Started
